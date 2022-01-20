@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilgaz Zararsız</h1>
 <h3 align="center">A passionate developer from Istanbul, Turkey</h3>
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **React, and Go.**
 
 - 📫 How to reach me **ilgazzararsiz@gmail.com**
 
